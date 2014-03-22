@@ -1,6 +1,6 @@
 <h1>Simple Reddcoin Widget with CSS3</h1>
 
-I'm no designer, but here is a simple Reddcoin wallet address widget made with CSS3 animations. There are two versions, large and mini. Hovering over the Dogecoin will reveal your address.
+I'm no designer, but here is a simple Reddcoin wallet address widget made with CSS3 animations. There are two versions, large and mini. Hovering over the Reddcoin will reveal your address.
 
 <h2>Live examples</h2>
 [Reddcoin Large](http://eguru.co.nz/dev/reddcoin/Reddcoin.html)<br />
