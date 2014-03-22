@@ -8,7 +8,7 @@ I'm no designer, but here is a simple Reddcoin wallet address widget made with C
 
 
 <h2>Screenshot</h2>
-<img src="http://i.imgur.com/PhmPmKI.png">
+<img src="http://i.imgur.com/hwup9ba.png">
 
 
 <h2>Like it? I also accept Reddcoin Tips</h2>
