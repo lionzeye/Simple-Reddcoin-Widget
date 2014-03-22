@@ -52,8 +52,10 @@
 
         #coin {
             position: absolute;
+            height: 59px;
             left: -28px;
             top: -3px;
+            width: 59px; 
             z-index: 2;
             -moz-transition: all 2s ease;
             -webkit-transition: all 2s ease;
@@ -61,7 +63,6 @@
             -ms-transition: all 2s ease;
             transition: all 2s ease;
         }
-
 
         #reddContainer:hover > #coinbackground > #accepted {
             -moz-transition: all 2s ease;
@@ -147,7 +148,7 @@
 <body>
 
     <div id="reddContainer">
-    <div id="coin" style="width: 59px; height: 59px;">
+    <div id="coin">
     <img src="images/reddcoin.png" width="59" height="59">
     </div>
 
