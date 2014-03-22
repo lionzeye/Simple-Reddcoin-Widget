@@ -33,11 +33,9 @@
             transition: all 1.5s ease;
         }
 
-
             #coinbackground:hover {
                 cursor: pointer;
             }
-
 
         #accepted {
             position: absolute;
@@ -54,11 +52,12 @@
             text-align:center;
         }
 
-
         #coin {
             position: absolute;
+            height: 59px;
             left: -28px;
             top: -3px;
+            width: 59px;
             z-index: 2;
             -moz-transition: all 2s ease;
             -webkit-transition: all 2s ease;
@@ -66,7 +65,6 @@
             -ms-transition: all 2s ease;
             transition: all 2s ease;
         }
-
 
         #reddContainer:hover > #coinbackground > #accepted {
             -moz-transition: all 2s ease;
@@ -82,8 +80,6 @@
             transform: translateX(0);
             left: 270px;
         }
-
-
 
         #reddContainer:hover > #coinbackground {
             -moz-transition: all 1.5s ease;
@@ -146,7 +142,6 @@
             transform: translateX(0);
         }
 
-
         input {
             width: 183px;
             font-size: 10px;
@@ -168,7 +163,7 @@
 <body>
 
     <div id="reddContainer">
-    <div id="coin" style="width: 59px; height: 59px;">
+    <div id="coin">
     <img src="images/reddcoin.png" width="59" height="59">
     </div>
 
